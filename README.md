@@ -1,4 +1,7 @@
-![My Company Logo](https://github.com/Naziyasompalem/NaziyaSompalem/blob/main/Korina%20Villanueva%20(1).png)
+
+
+![My Logo](https://github.com/Naziyasompalem/NaziyaSompalem/blob/main/Korina%20Villanueva%20(1).png)
+
 <h1 align="center">Hi 👋, I'm Naziya Sompalem</h1>
 <h3 align="center"> Django Enthusiast | AI & ML Explorer</h3>
 
