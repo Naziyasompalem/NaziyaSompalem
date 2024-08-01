@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naziya Sompalem</h1>
-<h3 align="center">Frontend Dev | Django Enthusiast | AI & ML Explorer</h3>
+<h3 align="center"> Django Enthusiast | AI & ML Explorer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naziyasompalem&label=Profile%20views&color=0e75b6&style=flat" alt="naziyasompalem" /> </p>
