@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naziyasompalem&label=Profile%20views&color=0e75b6&style=flat" alt="naziyasompalem" /> </p>
 
-- 🔭 I have recently worked on **Ecommerce Website on Waste management**
+- 🔭 I have recently worked on **Ecommerce Website **
 
 - 🌱 I’m currently learning **django ,Linux**
 
